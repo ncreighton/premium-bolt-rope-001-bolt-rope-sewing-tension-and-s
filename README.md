@@ -1,0 +1,2 @@
+# premium-bolt-rope-001-bolt-rope-sewing-tension-and-s
+Stop guessing your bolt rope sewing tension. One wrong stitch and your sail edge fails at sea.  This Notion template is the only dedicated record system for bolt rope sewing, converting your workshop into a calibrated lab. Log tension, stitch length, thread type, and rope diameter for every job, then instantly recall perfect settings for repeat pro
